@@ -14,7 +14,7 @@ Todo app with authorization, CRUD operations of todos and real time, optimistic 
 
 **Language:** TypeScript
 
-**Framework:** React, Next.js
+**Framework:** Next.js
 
 **Styling:** TailwindCSS, Framer-Motion
 
