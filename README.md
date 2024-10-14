@@ -33,7 +33,7 @@ Todo app with authorization, CRUD operations of todos and real time, optimistic 
 Clone the project
 
 ```bash
-  git clone https://github.com/yigithancolak/next-todo.git
+  git clone https://github.com/lovin123/next-todo.git
 ```
 
 Go to the project directory
